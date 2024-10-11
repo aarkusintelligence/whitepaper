@@ -1,4 +1,5 @@
 \documentclass{article}
+\usepackage{longtable}
 \usepackage{graphicx}  % For adding logos/images
 \usepackage{tikz}
 \usepackage{fancyhdr}  % For header/footer customization
@@ -114,9 +115,70 @@ Describe the long-term vision and mission of Aarkus Intelligence.
 \section{The Aarkus Intelligence Platform}
 At the core of Aarkus Intelligence lies its unique ability to deliver a comprehensive and detailed representation of every transaction across any blockchain. This capability allows traders not only to visualize their trades in real time but also to have a precise and clear understanding of the transaction flow, significantly enhancing decision-making processes.
 
-\subsection{Transaction Structure}
+\subsection{Transactions: The Core of Trading}
+In the blockchain ecosystem, transactions represent the atomic unit of value exchange. A transaction contains crucial information such as sender and recipient addresses, the asset being transferred, and associated transaction fees. Understanding these components is fundamental to accurate trade representation.
 
+\begin{longtable}{|c|c|c|c|c|c|}
+\hline
+\textbf{Component} & \textbf{Description} & \textbf{Example Value} \\
+\hline
+Transaction Hash & Unique ID for the transaction & 0x123abc... \\
+\hline
+Block Number & Block where the transaction was confirmed & 120034 \\
+\hline
+Sender Address & Wallet initiating the transaction & 0xabc123... \\
+\hline
+Recipient Address & Wallet receiving the asset & 0xdef456... \\
+\hline
+Asset & The asset being transferred & ETH \\
+\hline
+Transaction Value & Amount of asset being transferred & 2 ETH \\
+\hline
+Gas Fee & Fee paid for processing the transaction & 0.01 ETH \\
+\hline
+\end{longtable}
 
+\subsection{Trades: An Abstraction Over Transactions}
+While transactions represent the building blocks of blockchain activity, trades are abstractions that bundle multiple transactions. For example, buying ETH with USD is one transaction, and using that ETH to purchase LINK is another. A trade combines these steps into a coherent strategy.
+
+\textbf{Example:}
+\begin{itemize}
+    \item \textbf{Trade 1}: USD $\rightarrow$ ETH (0.25 ETH bought for 500 USD)
+    \item \textbf{Trade 2}: ETH $\rightarrow$ LINK (0.1 ETH used to buy LINK)
+    \item Remaining 0.15 ETH stays in the open USD/ETH trade.
+\end{itemize}
+
+The trades, based on these transactions, can be visualized as follows:
+
+\scriptsize % Reduce the font size further
+% Reduce table width with p{<width>} in longtable
+\begin{longtable}{|p{1cm}|p{1.2cm}|p{1.2cm}|p{1.2cm}|p{1.2cm}|p{1.5cm}|p{1.5cm}|p{1.2cm}|p{1.2cm}|p{1.5cm}|}
+\hline
+\textbf{Trade ID} & \textbf{Pair} & \textbf{Entry Asset} & \textbf{Exit Asset} & \textbf{Amount} & \textbf{Price at Entry} & \textbf{Price at Exit} & \textbf{Status} & \textbf{Profit/Loss} & \textbf{Timestamp} \\
+\hline
+1 & USD/ETH & USD & ETH & 0.15 ETH & \$2000/ETH & N/A & Open & N/A & 2024-10-11 10:30 UTC \\
+\hline
+1 & USD/ETH & USD & ETH & 0.1 ETH & \$2000/ETH & \$2200/ETH & Closed & \$20 & 2024-10-11 11:00 UTC \\
+\hline
+2 & ETH/LINK & ETH & LINK & 0.1 ETH & \$2200/ETH & N/A & Open & N/A & 2024-10-11 11:00 UTC \\
+\hline
+\caption{Trade Tracking}
+\end{longtable}
+\normalsize % Return to normal font size
+
+\section{Chained Transactions}
+Chained transactions represent a series of linked trades that build upon each other. A transaction such as using ETH to buy LINK opens a new trade while partially closing the previous one. This layered system allows traders to see their positions at multiple levels, reflecting both open and closed positions.
+
+\begin{tikzpicture}[node distance=2.5cm]
+  % Main central block (Transaction)
+  \node (transaction) [rectangle, rounded corners, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=blue!20] {Transaction (USD/ETH)};
+  
+  % Sub blocks for trade flows
+  \node (ethlink) [rectangle, rounded corners, minimum width=3cm, minimum height=1cm, right of=transaction, xshift=4cm] {ETH $\rightarrow$ LINK};
+  
+  % Connecting arrows
+  \draw [->, thick] (transaction) -- (ethlink);
+\end{tikzpicture}
 \subsection{Blockchain Data Analysis}
 Explain the core technologies behind real-time wallet tracking, asset performance, and more.
 
