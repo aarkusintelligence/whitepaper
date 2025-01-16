@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.11)  11 OCT 2024 22:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.11)  13 OCT 2024 14:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -386,20 +386,20 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (aarkus-intelligence-whitepaper.aux)
 \openout1 = `aarkus-intelligence-whitepaper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
  (C:\Users\Harsh Gupta\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count311
@@ -462,92 +462,392 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 [1{C:/Users/Harsh Gupta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 ]
+Overfull \hbox (3.40671pt too wide) in paragraph at lines 114--115
+\OT1/cmr/m/n/10 Aarkus In-tel-li-gence tar-gets two key cus-tomer seg-ments: \OT1/cmr/bx/n/10 ar-dent crypto traders (B2C) \OT1/cmr/m/n/10 and \OT1/cmr/bx/n/10 blockchain-
+ []
+
+
+LaTeX Warning: Citation `DemandSage' on page 2 undefined on input line 120.
+
+
+LaTeX Warning: Citation `Cognitive' on page 2 undefined on input line 120.
+
+
+LaTeX Warning: Citation `DemandSage' on page 2 undefined on input line 120.
+
+
+LaTeX Warning: Citation `Fortune' on page 2 undefined on input line 122.
+
+
+LaTeX Warning: File `wallet_growth_trend.png' not found on input line 126.
+
+
+c:/Users/Harsh Gupta/git/aarkus/whitepaper/aarkus-intelligence-whitepaper.tex:126: Package pdftex.def Error: File `wallet_growth_trend.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 ...h=0.8\textwidth]{wallet_growth_trend.png}
+                                                    % Placeholder for wallet...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\OT1/cmr/m/n/10 Global Crypto Wal-let
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+[]|\OT1/cmr/m/n/10 Crypto Fraud Losses
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 139--139
+[]|\OT1/cmr/m/n/10 Dominance of Mil-len-ni-
+ []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 157--157
+
+LaTeX Warning: Citation `DemandSage' on page 3 undefined on input line 146.
+
+
+LaTeX Warning: Citation `Cognitive' on page 3 undefined on input line 148.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
+[]|\OT1/cmr/m/n/10 Companies Us-ing
+ []
+
+
+Overfull \hbox (6.91605pt too wide) in paragraph at lines 174--175
+[]\OT1/cmr/bx/n/10 Adoption of Blockchain by Large En-ter-prises\OT1/cmr/m/n/10 : Com-pa-nies world-wide are in-te-grat-ing blockchain
+ []
+
+
+
+[3] [4]
+<TransactionVisualisation.png, id=27, 623.32875pt x 512.91624pt>
+File: TransactionVisualisation.png Graphic file (type png)
+<use TransactionVisualisation.png>
+Package pdftex.def Info: TransactionVisualisation.png  used on input line 245.
+(pdftex.def)             Requested size: 362.37569pt x 298.18819pt.
+
+
+[5 <./TransactionVisualisation.png>]
+Overfull \hbox (38.27618pt too wide) in paragraph at lines 293--318
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
 []|\OT1/cmr/bx/n/7 Trade
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--157
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
 []|\OT1/cmr/bx/n/7 Entry
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--157
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
 []|\OT1/cmr/bx/n/7 Price at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--157
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
 []|\OT1/cmr/bx/n/7 Price at
  []
 
 
-Overfull \hbox (10.545pt too wide) in paragraph at lines 157--157
+Overfull \hbox (10.545pt too wide) in paragraph at lines 336--336
 []|\OT1/cmr/bx/n/7 Profit/Loss| 
  []
 
 
-Overfull \hbox (1.87326pt too wide) in paragraph at lines 157--158
+Overfull \hbox (1.87326pt too wide) in paragraph at lines 336--337
 []|\OT1/cmr/bx/n/7 Timestamp| 
  []
 
 
-Overfull \hbox (3.16946pt too wide) in paragraph at lines 159--159
+Overfull \hbox (3.16946pt too wide) in paragraph at lines 338--338
 []|\OT1/cmr/m/n/7 USD/ETH| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
 []|\OT1/cmr/m/n/7 2024-10-11
  []
 
 
-Overfull \hbox (3.16946pt too wide) in paragraph at lines 161--161
+Overfull \hbox (3.16946pt too wide) in paragraph at lines 340--340
 []|\OT1/cmr/m/n/7 USD/ETH| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
 []|\OT1/cmr/m/n/7 2024-10-11
  []
 
 
-Overfull \hbox (6.6834pt too wide) in paragraph at lines 163--163
+Overfull \hbox (6.6834pt too wide) in paragraph at lines 342--342
 []|\OT1/cmr/m/n/7 ETH/LINK| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
 []|\OT1/cmr/m/n/7 2024-10-11
  []
 
 
-Overfull \hbox (28.38153pt too wide) in alignment at lines 155--166
+Overfull \hbox (28.38153pt too wide) in alignment at lines 334--345
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 361--361
+[]|\OT1/cmr/bx/n/7 Entry As-
+ []
+
+
+Overfull \hbox (3.7097pt too wide) in paragraph at lines 361--361
+[]|\OT1/cmr/bx/n/7 Amount| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
+[]|\OT1/cmr/bx/n/7 Price at
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
+[]|\OT1/cmr/bx/n/7 Price at
+ []
+
+
+Overfull \hbox (2.0091pt too wide) in paragraph at lines 361--361
+[]|\OT1/cmr/bx/n/7 Profit/Loss| 
+ []
+
+
+Overfull \hbox (1.87326pt too wide) in paragraph at lines 361--362
+[]|\OT1/cmr/bx/n/7 Timestamp| 
+ []
+
+
+Overfull \hbox (3.16946pt too wide) in paragraph at lines 363--363
+[]|\OT1/cmr/m/n/7 USD/ETH| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
+[]|\OT1/cmr/m/n/7 0.25
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+[]|\OT1/cmr/m/n/7 2024-10-11
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+\OT1/cmr/m/n/7 10:30:00
+ []
+
+
+Overfull \hbox (36.91783pt too wide) in alignment at lines 359--366
  [] [] [] [] [] [] [] [] [] [] 
  []
 
 
 
-[3] (aarkus-intelligence-whitepaper.aux)
+[7]
+
+[8]
+Underfull \hbox (badness 1281) in paragraph at lines 396--396
+[]|\OT1/cmr/bx/n/7 Entry As-
+ []
+
+
+Overfull \hbox (3.7097pt too wide) in paragraph at lines 396--396
+[]|\OT1/cmr/bx/n/7 Amount| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--396
+[]|\OT1/cmr/bx/n/7 Price at
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--396
+[]|\OT1/cmr/bx/n/7 Price at
+ []
+
+
+Overfull \hbox (2.0091pt too wide) in paragraph at lines 396--396
+[]|\OT1/cmr/bx/n/7 Profit/Loss| 
+ []
+
+
+Overfull \hbox (1.87326pt too wide) in paragraph at lines 396--397
+[]|\OT1/cmr/bx/n/7 Timestamp| 
+ []
+
+
+Overfull \hbox (3.16946pt too wide) in paragraph at lines 398--398
+[]|\OT1/cmr/m/n/7 USD/ETH| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
+[]|\OT1/cmr/m/n/7 0.15
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 398--399
+[]|\OT1/cmr/m/n/7 2024-10-11
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 398--399
+\OT1/cmr/m/n/7 10:30:00
+ []
+
+
+Overfull \hbox (6.6834pt too wide) in paragraph at lines 400--400
+[]|\OT1/cmr/m/n/7 ETH/LINK| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--400
+[]|\OT1/cmr/m/n/7 0.1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
+[]|\OT1/cmr/m/n/7 2024-10-11
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
+\OT1/cmr/m/n/7 11:00:00
+ []
+
+
+Overfull \hbox (36.91783pt too wide) in alignment at lines 394--403
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+
+[9]
+Underfull \hbox (badness 1281) in paragraph at lines 454--454
+[]|\OT1/cmr/bx/n/7 Entry As-
+ []
+
+
+Overfull \hbox (3.7097pt too wide) in paragraph at lines 454--454
+[]|\OT1/cmr/bx/n/7 Amount| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--454
+[]|\OT1/cmr/bx/n/7 Price at
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--454
+[]|\OT1/cmr/bx/n/7 Price at
+ []
+
+
+Overfull \hbox (2.0091pt too wide) in paragraph at lines 454--454
+[]|\OT1/cmr/bx/n/7 Profit/Loss| 
+ []
+
+
+Overfull \hbox (1.87326pt too wide) in paragraph at lines 454--455
+[]|\OT1/cmr/bx/n/7 Timestamp| 
+ []
+
+
+Overfull \hbox (3.16946pt too wide) in paragraph at lines 456--456
+[]|\OT1/cmr/m/n/7 USD/ETH| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+[]|\OT1/cmr/m/n/7 0.15
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+[]|\OT1/cmr/m/n/7 2024-10-11
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+\OT1/cmr/m/n/7 10:30:00
+ []
+
+
+Overfull \hbox (6.6834pt too wide) in paragraph at lines 458--458
+[]|\OT1/cmr/m/n/7 ETH/LINK| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+[]|\OT1/cmr/m/n/7 0.1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
+[]|\OT1/cmr/m/n/7 2024-10-11
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
+\OT1/cmr/m/n/7 11:00:00
+ []
+
+
+Overfull \hbox (36.91783pt too wide) in alignment at lines 452--461
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+(aarkus-intelligence-whitepaper.bbl)
+
+[10] (aarkus-intelligence-whitepaper.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 13791 strings out of 473899
- 282405 string characters out of 5723631
- 664834 words of memory out of 5000000
- 36418 multiletter control sequences out of 15000+600000
- 566163 words of font info for 64 fonts, out of 8000000 for 9000
+ 13901 strings out of 473899
+ 284984 string characters out of 5723631
+ 681713 words of memory out of 5000000
+ 36523 multiletter control sequences out of 15000+600000
+ 566671 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,93p,847b,690s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Harsh Gupta\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0700.pk> <C:\Users\Harsh Gupta\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on aarkus-intelligence-whitepaper.pdf (3 pages, 153828 bytes).
+ 84i,12n,93p,847b,816s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Harsh Gupta\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0700.pk> <C:\Users\Harsh Gupta\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Harsh Gupta\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1000.pk><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Harsh Gupta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on aarkus-intelligence-whitepaper.pdf (10 pages, 219341 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 117 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

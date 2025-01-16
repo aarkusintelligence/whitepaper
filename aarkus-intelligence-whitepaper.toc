@@ -1,14 +1,28 @@
 \contentsline {section}{\numberline {1}Introduction}{2}{}%
-\contentsline {section}{\numberline {2}Market Overview}{2}{}%
-\contentsline {section}{\numberline {3}Vision \& Mission}{2}{}%
-\contentsline {section}{\numberline {4}The Aarkus Intelligence Platform}{2}{}%
-\contentsline {subsection}{\numberline {4.1}Transactions: The Core of Trading}{2}{}%
-\contentsline {subsection}{\numberline {4.2}Trades: An Abstraction Over Transactions}{3}{}%
-\contentsline {section}{\numberline {5}Chained Transactions}{3}{}%
-\contentsline {subsection}{\numberline {5.1}Blockchain Data Analysis}{3}{}%
-\contentsline {section}{\numberline {6}Technology Stack}{3}{}%
-\contentsline {subsection}{\numberline {6.1}Analytical Metrics}{3}{}%
-\contentsline {section}{\numberline {7}Tokenomics}{3}{}%
-\contentsline {section}{\numberline {8}Roadmap}{3}{}%
-\contentsline {section}{\numberline {9}Team}{3}{}%
-\contentsline {section}{\numberline {10}Conclusion}{3}{}%
+\contentsline {section}{\numberline {2}Market Opportunity for Aarkus Intelligence}{2}{}%
+\contentsline {subsection}{\numberline {2.1}1. Ardent Crypto Traders (B2C)}{2}{}%
+\contentsline {subsection}{\numberline {2.2}2. Blockchain Projects \& Crypto Companies (B2B)}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Market Growth Drivers}{3}{}%
+\contentsline {subsection}{\numberline {2.4}Who Will Use Aarkus Intelligence?}{3}{}%
+\contentsline {section}{\numberline {3}Vision \& Mission}{4}{}%
+\contentsline {section}{\numberline {4}The Aarkus Intelligence Platform}{4}{}%
+\contentsline {subsection}{\numberline {4.1}Transactions: The Core of Trading}{4}{}%
+\contentsline {subsection}{\numberline {4.2}Transaction Flow and Portfolio Impact}{5}{}%
+\contentsline {paragraph}{X-Axis (Time):}{6}{}%
+\contentsline {paragraph}{Y-Axis (Portfolio Change):}{6}{}%
+\contentsline {paragraph}{Portfolio Over Time:}{6}{}%
+\contentsline {paragraph}{Impact on Portfolio:}{6}{}%
+\contentsline {paragraph}{Chained Transaction Visualization:}{6}{}%
+\contentsline {subsection}{\numberline {4.3}Trades: An Abstraction Over Transactions}{7}{}%
+\contentsline {subsection}{\numberline {4.4}Chained Transactions}{7}{}%
+\contentsline {subsubsection}{\numberline {4.4.1}Step 1: First Trade – USD to ETH}{7}{}%
+\contentsline {subsubsection}{\numberline {4.4.2}Step 2: Second Trade – Partial ETH to LINK}{9}{}%
+\contentsline {subsubsection}{\numberline {4.4.3}PnL Calculations for the Second Trade}{10}{}%
+\contentsline {subsubsection}{\numberline {4.4.4}Final Trade Sheet}{10}{}%
+\contentsline {subsection}{\numberline {4.5}Blockchain Data Analysis}{10}{}%
+\contentsline {section}{\numberline {5}Technology Stack}{10}{}%
+\contentsline {subsection}{\numberline {5.1}Analytical Metrics}{10}{}%
+\contentsline {section}{\numberline {6}Tokenomics}{10}{}%
+\contentsline {section}{\numberline {7}Roadmap}{10}{}%
+\contentsline {section}{\numberline {8}Team}{10}{}%
+\contentsline {section}{\numberline {9}Conclusion}{10}{}%
