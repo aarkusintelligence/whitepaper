@@ -24,9 +24,9 @@ cluster_attr = {
 
 # Create the diagram
 with Diagram(
-    "Token Analysis AI Agent Architecture Highlevelcd arch",
+    "Token Analysis AI Agent Architecture Highlevelcd arch-LR",
     show=False,
-    direction="TB",
+    direction="LR",
     graph_attr=graph_attr
 ):
     # Data Sources
